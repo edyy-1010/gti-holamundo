@@ -1,7 +1,7 @@
 {
   "powermode.enabled": true,
   "powermode.shake.enabled": false,
-  "powermode.presets": "flames",
+  "powermode.presets": "simple-rift",
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#4da6ff",
     "activityBar.background": "#4da6ff",
